@@ -1,0 +1,10 @@
+.Pokedex {
+    margin: 4rem auto;
+    display: grid;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: #b0b0b0;
+}
