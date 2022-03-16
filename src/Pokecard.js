@@ -5,12 +5,12 @@ import './Pokecard.css';
 import './Pokedex.css';
 
 
-let min = 1;
-let max = 898;
-let randomNumber = Math.floor(Math.random() * 10);
-console.log(randomNumber);
+// let min = 1;
+// let max = 898;
+// let randomNumber = Math.floor(Math.random() * 10);
+// console.log(randomNumber);
 
-const Pokecard = ({ item, name, type, base_experience, id }) => (
+const Pokecard = ({ name, type, base_experience, id }) => (
 	<div className="Pokecard">
 		<ul className="Pokecard-ul">
 			<h2> { name }  </h2>

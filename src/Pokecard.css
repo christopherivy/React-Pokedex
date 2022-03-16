@@ -16,8 +16,8 @@ h2 {
 
 .Pokecard {
     background-color: #d3d3d3;
-    width: 15em;
-    height: 15em;
+    width: 12em;
+    height: 12em;
     display: inline-grid;
     border-radius: 1rem;
     text-align: center;
